@@ -19,6 +19,7 @@ https://github.com/muniasamyk/Pandas_Data_Cleaning-/blob/main/Pandas_Data_Cleani
 ## Pandas Example Test
 
 ### Problem Statement 
+
 Use Pandas to perform numerical computations and data analysis on a dataset. This 
 assignment introduces students to essential data analysis libraries in Python. 
 Detailed ExplanationPandas Data Analysis: 
@@ -31,21 +32,32 @@ students.csv).
 ### Data Cleaning: 
 
 --> Identify and handle missing values (e.g., using fillna() or dropna()). 
+
 --> Convert data types if necessary. 
+
 --> Quantity missing values should ne filed with mean quantity 
+
 --> Missing region should be filled with “central” 
+
 --> Duplicates should be removed 
+
 --> Missing Sub-category should be filled with “Not mentioned” 
+
 --> Filler the data only sales >1000 
+
 --> Sort the data based on sales 
 
 ### Submission Requirements: 
 
 
 -->Python Notebook: 
+
 --> Submit a Jupyter notebook (.ipynb) with all code cells and outputs. 
+
 --> Include markdown cells explaining each step. 
+
 ---> Explanations: 
+
 
 ### Output CSV file 
 

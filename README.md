@@ -80,7 +80,7 @@ Detailed Explanation
    
 ##### 🔹Data Processing: 
 
-🔹 Clean and preprocess the data as necessary.
+🔹Clean and preprocess the data as necessary.
    
 3) Duplicates should be removed
    
@@ -90,15 +90,15 @@ Detailed Explanation
    
 ##### Implement functions to perform required calculations 
 
--Avg sales
+1) Avg sales
    
--Mean Quantity 
+2) Mean Quantity 
  
--Mode of Quantity 
+3) Mode of Quantity 
 
--Standard deviation of quantity  
+4) Standard deviation of quantity  
 
--Correlation between sales and Profit 
+5) Correlation between sales and Profit 
 
 6) Create a function – Need to add a new column as “Status” if quantity is greater 
 than 5 then “High sales” else “low sales”

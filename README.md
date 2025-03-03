@@ -26,39 +26,35 @@ Detailed ExplanationPandas Data Analysis:
 
 ### Loading Data: 
 
--->Read a CSV file into a Pandas DataFrame (you can use a sample dataset like 
-students.csv). 
+1) Read a CSV file into a Pandas DataFrame. 
 
 ### Data Cleaning: 
 
---> Identify and handle missing values (e.g., using fillna() or dropna()). 
+2) Identify and handle missing values (e.g., using fillna() or dropna()). 
 
---> Convert data types if necessary. 
+3) Convert data types if necessary. 
 
---> Quantity missing values should ne filed with mean quantity 
+4) Quantity missing values should ne filed with mean quantity 
 
---> Missing region should be filled with “central” 
+5) Missing region should be filled with “central” 
 
---> Duplicates should be removed 
+6) Duplicates should be removed 
 
---> Missing Sub-category should be filled with “Not mentioned” 
+7) Missing Sub-category should be filled with “Not mentioned” 
 
---> Filler the data only sales >1000 
+8) Filler the data only sales >1000 
 
---> Sort the data based on sales 
+9) Sort the data based on sales 
 
 ### Submission Requirements: 
+11) Python Notebook: 
 
+-> Submit a Jupyter notebook (.ipynb) with all code cells and outputs. 
 
--->Python Notebook: 
+-> Include markdown cells explaining each step. 
 
---> Submit a Jupyter notebook (.ipynb) with all code cells and outputs. 
+### Explanations: 
 
---> Include markdown cells explaining each step. 
-
----> Explanations: 
-
-
-### Output CSV file 
+12) Output CSV file 
 
 https://github.com/muniasamyk/Pandas_Data_Cleaning-/blob/main/Pandas_test%20(1).ipynb

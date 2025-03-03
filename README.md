@@ -48,6 +48,8 @@ Detailed ExplanationPandas Data Analysis:
 
 10) Convert to CSV File
 
+### Output here -->    
+
 https://github.com/muniasamyk/Pandas_Data_Cleaning-/blob/main/Pandas_test%20(1).ipynb
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -129,9 +131,12 @@ than 5 then “High sales” else “low sales”
 
 5) Which region getting higher sales 
 
-6) Which ship mode customer like to ship 
+6) Which ship mode customer like to ship
+   
 
+### Output here --> 
 
+https://github.com/muniasamyk/Pandas_Data_Cleaning-/blob/main/Mini_Project%20(1).ipynb
 
 
 

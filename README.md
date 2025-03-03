@@ -12,7 +12,7 @@ Pandas is an open-source data analysis and manipulation library built on top of 
 
 ✅ Grouping and aggregation
 
-## Example ---- > 
+## Practice Notebook ->
 
 https://github.com/muniasamyk/Pandas_Data_Cleaning-/blob/main/Pandas_Data_Cleaning.ipynb
 
@@ -46,15 +46,6 @@ Detailed ExplanationPandas Data Analysis:
 
 9) Sort the data based on sales 
 
-### Submission Requirements: 
-11) Python Notebook: 
-
--> Submit a Jupyter notebook (.ipynb) with all code cells and outputs. 
-
--> Include markdown cells explaining each step. 
-
-### Explanations: 
-
-12) Output CSV file 
+10) Convert to CSV File
 
 https://github.com/muniasamyk/Pandas_Data_Cleaning-/blob/main/Pandas_test%20(1).ipynb

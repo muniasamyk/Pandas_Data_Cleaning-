@@ -5,8 +5,11 @@ Pandas is an open-source data analysis and manipulation library built on top of 
 ## 🔹 Common use cases:
 
 ✅ Data cleaning and preprocessing
+
 ✅ Statistical analysis and visualization
+
 ✅ Handling missing values
+
 ✅ Grouping and aggregation
 
 ## Example ---- > 
